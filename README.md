@@ -1,4 +1,4 @@
-# 宁波大学迎新统计页
+# 宁波大学迎新统计页(DEMO)
 
 > A Vue.js project
 
